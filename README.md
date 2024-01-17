@@ -17,3 +17,7 @@
 * [Aortiz - A Primer On Efficient Rendering Algorithms & Clustered Shading](https://www.aortiz.me/2018/12/21/CG.html)
 * [Aortiz - Building Clusters](https://github.com/Angelo1211/HybridRenderingEngine/blob/master/assets/shaders/ComputeShaders/clusterShader.comp)
 * [Aortiz - Light Culling](https://github.com/Angelo1211/HybridRenderingEngine/blob/master/assets/shaders/ComputeShaders/clusterCullLightShader.comp)
+
+### Job Interview
+* [Jeremy Ong - Interviewing Graphics Programmers](https://www.jeremyong.com/graphics/interviewing/2023/08/05/graphics-programmer-interviewing/)
+* [Erkaman - Interviewing for your First Job as a Graphics Programmer](https://erkaman.github.io/posts/junior_graphics_programmer_interview.html)
