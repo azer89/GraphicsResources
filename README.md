@@ -19,6 +19,9 @@ A list of graphics/Vulkan articles and code that I find interesting.
 ### Image Layout Transition
 * [Flower Engine - Image Layout Transition](https://github.com/qiutang98/flower/blob/0414798840c1c4aef4e742f521696378695e7897/source/engine/rhi/resource.cpp#L237)
 * [Kohi Engine - Image Layout Transition](https://github.com/travisvroman/kohi/blob/eafbaf505e7809349302b8ee06d43e0594fa6c18/vulkan_renderer/src/renderer/vulkan/vulkan_image.c#L155)
+
+### Raytracing
+* [Raytracing in Vulkan](https://www.khronos.org/blog/ray-tracing-in-vulkan)
   
 ### Clustered Forward Shading
 * [IdTech 666 - The Devil is in Details](https://advances.realtimerendering.com/s2016/Siggraph2016_idTech6.pdf)
