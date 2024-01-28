@@ -25,6 +25,7 @@ A list of graphics/Vulkan articles and code that I find interesting.
 * [Raytracing in Vulkan](https://www.khronos.org/blog/ray-tracing-in-vulkan)
   
 ### Clustered Forward Shading
+* [Olsson et al. -  Clustered Deferred and Forward Shading](https://www.cse.chalmers.se/~uffe/clustered_shading_preprint.pdf)
 * [Emil Persson - Practical Clustered Shading](https://www.humus.name/Articles/PracticalClusteredShading.pdf)
 * [Van Oosten Thesis](https://www.3dgep.com/wp-content/uploads/2017/07/3910539_Jeremiah_van_Oosten_Volume_Tiled_Forward_Shading.pdf)
 * [IdTech - The Devil is in Details](https://advances.realtimerendering.com/s2016/Siggraph2016_idTech6.pdf)
