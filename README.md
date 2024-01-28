@@ -21,9 +21,8 @@ A list of graphics/Vulkan articles and code that I find interesting.
 * [Kohi Engine - Image Layout Transition](https://github.com/travisvroman/kohi/blob/eafbaf505e7809349302b8ee06d43e0594fa6c18/vulkan_renderer/src/renderer/vulkan/vulkan_image.c#L155)
   
 ### Clustered Forward Shading
+* [IdTech 666 - The Devil is in Details](https://advances.realtimerendering.com/s2016/Siggraph2016_idTech6.pdf)
 * [Aortiz - A Primer On Efficient Rendering Algorithms & Clustered Shading](https://www.aortiz.me/2018/12/21/CG.html)
-* [Aortiz - Building Clusters (Compute Shader)](https://github.com/Angelo1211/HybridRenderingEngine/blob/master/assets/shaders/ComputeShaders/clusterShader.comp)
-* [Aortiz - Light Culling (Compute Shader)](https://github.com/Angelo1211/HybridRenderingEngine/blob/master/assets/shaders/ComputeShaders/clusterCullLightShader.comp)
 
 ### Job Interview
 * [Jeremy Ong - Interviewing Graphics Programmers](https://www.jeremyong.com/graphics/interviewing/2023/08/05/graphics-programmer-interviewing/)
