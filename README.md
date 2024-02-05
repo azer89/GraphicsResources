@@ -4,6 +4,7 @@ A list of graphics/Vulkan resources that I find interesting.
 * [AMD - Understanding Vulkan Objects](https://gpuopen.com/learn/understanding-vulkan-objects/)
 * [Zeux - Writing an efficient Vulkan renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [Vulkan Guide](https://github.com/vblanco20-1/vulkan-guide)
+* [3D Graphics Rendering Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook)
 * [docs.vulkan.org](https://docs.vulkan.org/)
 
 ### Compute Shaders
