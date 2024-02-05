@@ -32,6 +32,10 @@ A list of graphics/Vulkan resources that I find interesting.
 * [Michal Drobot - Improved Culling for Tiled and Clustered Rendering](https://advances.realtimerendering.com/s2017/2017_Sig_Improved_Culling_final.pdf)
 * [Aortiz - A Primer On Efficient Rendering Algorithms & Clustered Shading](https://www.aortiz.me/2018/12/21/CG.html)
 
+### ReSTIR
+* [Benedikt Bitterli - SIGGRAPH 2020 Paper](https://benedikt-bitterli.me/restir/)
+* [ReSTIR Vulkan](https://github.com/lukedan/ReSTIR-Vulkan)
+
 ### Vulkan Engines/Backends
 * [Niagara](https://github.com/zeux/niagara)
 * [Facebook IGL](https://github.com/facebook/igl/tree/main/src/igl/vulkan)
