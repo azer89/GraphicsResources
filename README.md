@@ -7,6 +7,7 @@ A list of graphics/Vulkan resources that I find interesting.
 * [3D Graphics Rendering Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook)
 * [docs.vulkan.org](https://docs.vulkan.org/)
 * [Intel - The Practical Approach to Vulkan](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html)
+* [VMA Usage Patterns](https://gpuopen-librariesandsdks.github.io/VulkanMemoryAllocator/html/usage_patterns.html)
 
 ### Compute Shaders
 * [Vulkan Guide - Compute Shaders](https://vkguide.dev/docs/gpudriven/compute_shaders/)
