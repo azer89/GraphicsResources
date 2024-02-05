@@ -1,4 +1,4 @@
-A list of graphics/Vulkan articles and code that I find interesting.
+A list of graphics/Vulkan resources that I find interesting.
 
 ### General
 * [AMD - Understanding Vulkan Objects](https://gpuopen.com/learn/understanding-vulkan-objects/)
@@ -18,10 +18,6 @@ A list of graphics/Vulkan articles and code that I find interesting.
 * [Khronos - Synchronization Examples (Legacy)](https://github.com/KhronosGroup/Vulkan-Docs/wiki/Synchronization-Examples-(Legacy-synchronization-APIs))
 * [Stackoverflow - Why is a single depth buffer sufficient for this vulkan swapchain render loop?](https://stackoverflow.com/questions/62371266/why-is-a-single-depth-buffer-sufficient-for-this-vulkan-swapchain-render-loop)
 
-### Image Layout Transition
-* [Flower Engine - Image Layout Transition](https://github.com/qiutang98/flower/blob/0414798840c1c4aef4e742f521696378695e7897/source/engine/rhi/resource.cpp#L237)
-* [Kohi Engine - Image Layout Transition](https://github.com/travisvroman/kohi/blob/eafbaf505e7809349302b8ee06d43e0594fa6c18/vulkan_renderer/src/renderer/vulkan/vulkan_image.c#L155)
-
 ### Raytracing
 * [Raytracing in Vulkan](https://www.khronos.org/blog/ray-tracing-in-vulkan)
 * [NVPro](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/)
@@ -30,8 +26,18 @@ A list of graphics/Vulkan articles and code that I find interesting.
 * [Olsson et al. -  Clustered Deferred and Forward Shading](https://www.cse.chalmers.se/~uffe/clustered_shading_preprint.pdf)
 * [Emil Persson - Practical Clustered Shading](https://www.humus.name/Articles/PracticalClusteredShading.pdf)
 * [Van Oosten Thesis](https://www.3dgep.com/wp-content/uploads/2017/07/3910539_Jeremiah_van_Oosten_Volume_Tiled_Forward_Shading.pdf)
-* [IdTech - The Devil is in Details](https://advances.realtimerendering.com/s2016/Siggraph2016_idTech6.pdf)
+* [Id - The Devil is in Details](https://advances.realtimerendering.com/s2016/Siggraph2016_idTech6.pdf)
+* [Id - Rendering Doom Eternal](https://advances.realtimerendering.com/s2020/RenderingDoomEternal.pdf)
+* [Michal Drobot - Improved Culling for Tiled and Clustered Rendering](https://advances.realtimerendering.com/s2017/2017_Sig_Improved_Culling_final.pdf)
 * [Aortiz - A Primer On Efficient Rendering Algorithms & Clustered Shading](https://www.aortiz.me/2018/12/21/CG.html)
+
+### Vulkan Engines/Backends
+* [Niagara](https://github.com/zeux/niagara)
+* [Facebook IGL](https://github.com/facebook/igl/tree/main/src/igl/vulkan)
+
+### Image Layout Transition
+* [Flower Engine - Image Layout Transition](https://github.com/qiutang98/flower/blob/0414798840c1c4aef4e742f521696378695e7897/source/engine/rhi/resource.cpp#L237)
+* [Kohi Engine - Image Layout Transition](https://github.com/travisvroman/kohi/blob/eafbaf505e7809349302b8ee06d43e0594fa6c18/vulkan_renderer/src/renderer/vulkan/vulkan_image.c#L155)
 
 ### Job Interview
 * [Jeremy Ong - Interviewing Graphics Programmers](https://www.jeremyong.com/graphics/interviewing/2023/08/05/graphics-programmer-interviewing/)
