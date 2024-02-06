@@ -7,7 +7,6 @@ A list of graphics/Vulkan resources that I find interesting.
 * [3D Graphics Rendering Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook)
 * [docs.vulkan.org](https://docs.vulkan.org/)
 * [Intel - The Practical Approach to Vulkan](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html)
-* [VMA Usage Patterns](https://gpuopen-librariesandsdks.github.io/VulkanMemoryAllocator/html/usage_patterns.html)
 
 ### Compute Shaders
 * [Vulkan Guide - Compute Shaders](https://vkguide.dev/docs/gpudriven/compute_shaders/)
@@ -41,6 +40,12 @@ A list of graphics/Vulkan resources that I find interesting.
 ### Vulkan Engines/Backends
 * [Niagara](https://github.com/zeux/niagara)
 * [Facebook IGL](https://github.com/facebook/igl/tree/main/src/igl/vulkan)
+* [lightweightvk](https://github.com/corporateshark/lightweightvk)
+
+### Vulkan Memory Allocator
+* [VMA Quick Start](https://gpuopen-librariesandsdks.github.io/VulkanMemoryAllocator/html/quick_start.html)
+* [VMA Usage Patterns](https://gpuopen-librariesandsdks.github.io/VulkanMemoryAllocator/html/usage_patterns.html)
+* VMA and Volk [Stackoverflow](https://stackoverflow.com/questions/73512602/using-vulkan-memory-allocator-with-volk) [Reddit](https://old.reddit.com/r/vulkan/comments/optef4/vulkan_memory_allocator_cant_load_some_vulkan/)
 
 ### Image Layout Transition
 * [Flower Engine - Image Layout Transition](https://github.com/qiutang98/flower/blob/0414798840c1c4aef4e742f521696378695e7897/source/engine/rhi/resource.cpp#L237)
