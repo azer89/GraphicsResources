@@ -47,7 +47,8 @@ A list of graphics/Vulkan resources that I find interesting.
 * [VMA Usage Patterns](https://gpuopen-librariesandsdks.github.io/VulkanMemoryAllocator/html/usage_patterns.html)
 * VMA and Volk [Stackoverflow](https://stackoverflow.com/questions/73512602/using-vulkan-memory-allocator-with-volk) [Reddit](https://old.reddit.com/r/vulkan/comments/optef4/vulkan_memory_allocator_cant_load_some_vulkan/)
 
-### Image Layout Transition
+### Miscellaneous
+* [glslang API](https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang/)
 * [Flower Engine - Image Layout Transition](https://github.com/qiutang98/flower/blob/0414798840c1c4aef4e742f521696378695e7897/source/engine/rhi/resource.cpp#L237)
 * [Kohi Engine - Image Layout Transition](https://github.com/travisvroman/kohi/blob/eafbaf505e7809349302b8ee06d43e0594fa6c18/vulkan_renderer/src/renderer/vulkan/vulkan_image.c#L155)
 
