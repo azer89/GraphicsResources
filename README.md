@@ -1,4 +1,4 @@
-A list of graphics/Vulkan resources that I find interesting.
+A list of graphics/Vulkan resources that I find interesting. Obviously, I haven't read all of them.
 
 ### General
 * [AMD - Understanding Vulkan Objects](https://gpuopen.com/learn/understanding-vulkan-objects/)
@@ -51,6 +51,7 @@ A list of graphics/Vulkan resources that I find interesting.
 * [glslang API](https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang/)
 * [Reddit - What exactly is frames in flight?](https://www.reddit.com/r/vulkan/comments/nbu94q/what_exactly_is_the_definition_of_frames_in_flight/)
 * [Intel - Frame resources count when using frames-in-flight](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html)
+* [Jeremy Ong's Blog](https://www.jeremyong.com/)
 * [Flower Engine - Image Layout Transition](https://github.com/qiutang98/flower/blob/0414798840c1c4aef4e742f521696378695e7897/source/engine/rhi/resource.cpp#L237)
 * [Kohi Engine - Image Layout Transition](https://github.com/travisvroman/kohi/blob/eafbaf505e7809349302b8ee06d43e0594fa6c18/vulkan_renderer/src/renderer/vulkan/vulkan_image.c#L155)
 
