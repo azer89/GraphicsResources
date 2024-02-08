@@ -6,7 +6,6 @@ A list of graphics/Vulkan resources that I find interesting.
 * [Vulkan Guide](https://github.com/vblanco20-1/vulkan-guide)
 * [3D Graphics Rendering Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook)
 * [docs.vulkan.org](https://docs.vulkan.org/)
-* [Intel - The Practical Approach to Vulkan](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html)
 
 ### Compute Shaders
 * [Vulkan Guide - Compute Shaders](https://vkguide.dev/docs/gpudriven/compute_shaders/)
@@ -50,6 +49,7 @@ A list of graphics/Vulkan resources that I find interesting.
 
 ### Miscellaneous
 * [glslang API](https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang/)
+* [Intel - Frame resources count when using frame-in-flight](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html)
 * [Flower Engine - Image Layout Transition](https://github.com/qiutang98/flower/blob/0414798840c1c4aef4e742f521696378695e7897/source/engine/rhi/resource.cpp#L237)
 * [Kohi Engine - Image Layout Transition](https://github.com/travisvroman/kohi/blob/eafbaf505e7809349302b8ee06d43e0594fa6c18/vulkan_renderer/src/renderer/vulkan/vulkan_image.c#L155)
 
