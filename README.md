@@ -22,6 +22,7 @@ A list of graphics/Vulkan resources that I find interesting.
 
 ### Raytracing
 * [Raytracing in Vulkan](https://www.khronos.org/blog/ray-tracing-in-vulkan)
+* [Vulkan Raytracing Final Specification](https://www.khronos.org/blog/vulkan-ray-tracing-final-specification-release)
 * [NVPro](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/)
   
 ### Clustered Forward Shading
