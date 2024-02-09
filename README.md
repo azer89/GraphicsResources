@@ -1,4 +1,4 @@
-A list of graphics/Vulkan resources that I find interesting. Obviously, I haven't read all of them.
+A list of graphics/Vulkan resources that I find interesting.
 
 ### General
 * [AMD - Understanding Vulkan Objects](https://gpuopen.com/learn/understanding-vulkan-objects/)
@@ -20,8 +20,8 @@ A list of graphics/Vulkan resources that I find interesting. Obviously, I haven'
 * [Stackoverflow - Why is a single depth buffer sufficient for this vulkan swapchain render loop?](https://stackoverflow.com/questions/62371266/why-is-a-single-depth-buffer-sufficient-for-this-vulkan-swapchain-render-loop)
 
 ### Raytracing
-* [Raytracing in Vulkan](https://www.khronos.org/blog/ray-tracing-in-vulkan)
-* [Vulkan Raytracing Final Specification](https://www.khronos.org/blog/vulkan-ray-tracing-final-specification-release)
+* [Khronos - Raytracing in Vulkan](https://www.khronos.org/blog/ray-tracing-in-vulkan)
+* [Khronos - Vulkan Raytracing Final Specification](https://www.khronos.org/blog/vulkan-ray-tracing-final-specification-release)
 * [NVPro](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/)
   
 ### Clustered Forward Shading
