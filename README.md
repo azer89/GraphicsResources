@@ -50,7 +50,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [VMA Usage Patterns](https://gpuopen-librariesandsdks.github.io/VulkanMemoryAllocator/html/usage_patterns.html)
 * VMA and Volk [Stackoverflow](https://stackoverflow.com/questions/73512602/using-vulkan-memory-allocator-with-volk) [Reddit](https://old.reddit.com/r/vulkan/comments/optef4/vulkan_memory_allocator_cant_load_some_vulkan/)
 
-# C++
+### C++
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-functions)
 
 ### Miscellaneous
