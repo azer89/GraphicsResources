@@ -56,6 +56,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 
 ### C++
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-functions)
+* [Google C++ Guide](https://google.github.io/styleguide/cppguide.html)
 
 ### Miscellaneous
 * [glslang API](https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang/)
