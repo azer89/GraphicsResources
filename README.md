@@ -55,6 +55,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 
 ### Miscellaneous
 * [glslang API](https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang/)
+* [Reddit - How to use texture arrays using descriptor indexing](https://www.reddit.com/r/vulkan/comments/tq6c2v/vulkan_bindless_textures_how_to_deal_with/)
 * [Reddit - What exactly is frames in flight?](https://www.reddit.com/r/vulkan/comments/nbu94q/what_exactly_is_the_definition_of_frames_in_flight/)
 * [Intel - Frame resources count when using frames-in-flight](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html)
 * [Jeremy Ong's Blog](https://www.jeremyong.com/)
