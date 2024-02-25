@@ -55,6 +55,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [Reddit - How to use texture arrays using descriptor indexing](https://www.reddit.com/r/vulkan/comments/tq6c2v/vulkan_bindless_textures_how_to_deal_with/)
 * [Vulkan Guide - GPU Driven Rendering](https://vkguide.dev/docs/gpudriven/gpu_driven_engines/)
 * [GPU Rendering and Multi-Draw Indirect](https://docs.vulkan.org/samples/latest/samples/performance/multi_draw_indirect/README.html)
+* [Wicked Engine - Bindless Descriptors](https://wickedengine.net/2021/04/06/bindless-descriptors/)
 
 ### C++
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-functions)
