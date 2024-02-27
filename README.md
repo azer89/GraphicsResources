@@ -57,6 +57,9 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [GPU Rendering and Multi-Draw Indirect](https://docs.vulkan.org/samples/latest/samples/performance/multi_draw_indirect/README.html)
 * [Wicked Engine - Bindless Descriptors](https://wickedengine.net/2021/04/06/bindless-descriptors/)
 
+### Dynamic Rendering *(sans VkRenderPass)*
+* [Lesley Lai - VK_KHR_dynamic_rendering tutorial](https://lesleylai.info/en/vk-khr-dynamic-rendering/)
+
 ### Render Graph
 * [FrameGraph: Extensible Rendering Architecture in Frostbite](https://www.gdcvault.com/play/1024045/FrameGraph-Extensible-Rendering-Architecture-in)
 * [The Maister - Render Graphs and Vulkan](https://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
