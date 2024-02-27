@@ -57,9 +57,9 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [GPU Rendering and Multi-Draw Indirect](https://docs.vulkan.org/samples/latest/samples/performance/multi_draw_indirect/README.html)
 * [Wicked Engine - Bindless Descriptors](https://wickedengine.net/2021/04/06/bindless-descriptors/)
 
-### C++
-* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-functions)
-* [Google C++ Guide](https://google.github.io/styleguide/cppguide.html)
+### Render Graph
+* [FrameGraph: Extensible Rendering Architecture in Frostbite](https://www.gdcvault.com/play/1024045/FrameGraph-Extensible-Rendering-Architecture-in)
+* [The Maister - Render Graphs and Vulkan](https://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
 
 ### Miscellaneous
 * [glslang API](https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang/)
@@ -67,11 +67,13 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [Intel - Frame resources count when using frames-in-flight](https://www.intel.com/content/www/us/en/developer/articles/training/practical-approach-to-vulkan-part-1.html)
 * [Jeremy Ong's Blog](https://www.jeremyong.com/)
 * [Flower Engine - Image Layout Transition](https://github.com/qiutang98/flower/blob/0414798840c1c4aef4e742f521696378695e7897/source/engine/rhi/resource.cpp#L237)
-* [Kohi Engine - Image Layout Transition](https://github.com/travisvroman/kohi/blob/eafbaf505e7809349302b8ee06d43e0594fa6c18/vulkan_renderer/src/renderer/vulkan/vulkan_image.c#L155)
 * [alain.xyz - Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
 * [Shader Occupancy](https://gpuopen.com/learn/occupancy-explained/)
 * [Nikolas Kasyan - Playing with Real-Time Shadows](https://www.realtimeshadows.com/sites/default/files/Playing%20with%20Real-Time%20Shadows_0.pdf)
-* [FrameGraph: Extensible Rendering Architecture in Frostbite](https://www.gdcvault.com/play/1024045/FrameGraph-Extensible-Rendering-Architecture-in)
+
+### C++
+* [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-functions)
+* [Google C++ Guide](https://google.github.io/styleguide/cppguide.html)
 
 ### Job Interview
 * [Jeremy Ong - Interviewing Graphics Programmers](https://www.jeremyong.com/graphics/interviewing/2023/08/05/graphics-programmer-interviewing/)
