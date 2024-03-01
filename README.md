@@ -77,6 +77,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [Flower Engine - Image Layout Transition](https://github.com/qiutang98/flower/blob/0414798840c1c4aef4e742f521696378695e7897/source/engine/rhi/resource.cpp#L237)
 * [alain.xyz - Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
 * [Shader Occupancy](https://gpuopen.com/learn/occupancy-explained/)
+* [Early Depth Test](https://www.khronos.org/opengl/wiki/Early_Fragment_Test)
 
 ### C++
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-functions)
