@@ -36,6 +36,11 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [Michal Drobot - Improved Culling for Tiled and Clustered Rendering](https://advances.realtimerendering.com/s2017/2017_Sig_Improved_Culling_final.pdf)
 * [Aortiz - A Primer On Efficient Rendering Algorithms & Clustered Shading](https://www.aortiz.me/2018/12/21/CG.html)
 
+### Shadow Mapping
+* [Nikolas Kasyan - Playing with Real-Time Shadows](https://www.realtimeshadows.com/sites/default/files/Playing%20with%20Real-Time%20Shadows_0.pdf)
+* [LearnOpenGL - Cascade Shadow Mapping](https://learnopengl.com/Guest-Articles/2021/CSM)
+* [OGLDev - Cascade Shadow Mapping](https://ogldev.org/www/tutorial49/tutorial49.html)
+
 ### ReSTIR
 * [Benedikt Bitterli - SIGGRAPH 2020 Paper](https://benedikt-bitterli.me/restir/)
 * [ReSTIR Vulkan](https://github.com/lukedan/ReSTIR-Vulkan)
@@ -72,7 +77,6 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [Flower Engine - Image Layout Transition](https://github.com/qiutang98/flower/blob/0414798840c1c4aef4e742f521696378695e7897/source/engine/rhi/resource.cpp#L237)
 * [alain.xyz - Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
 * [Shader Occupancy](https://gpuopen.com/learn/occupancy-explained/)
-* [Nikolas Kasyan - Playing with Real-Time Shadows](https://www.realtimeshadows.com/sites/default/files/Playing%20with%20Real-Time%20Shadows_0.pdf)
 
 ### C++
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-functions)
