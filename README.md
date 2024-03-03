@@ -78,6 +78,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [alain.xyz - Comparison of Modern Graphics APIs](https://alain.xyz/blog/comparison-of-modern-graphics-apis)
 * [Shader Occupancy](https://gpuopen.com/learn/occupancy-explained/)
 * [Early Depth Test](https://www.khronos.org/opengl/wiki/Early_Fragment_Test)
+* [MJP - Shader Permutations](https://therealmjp.github.io/posts/shader-permutations-part1/)
 
 ### C++
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-functions)
