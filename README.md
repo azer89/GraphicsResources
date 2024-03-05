@@ -40,6 +40,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [Nikolas Kasyan - Playing with Real-Time Shadows](https://www.realtimeshadows.com/sites/default/files/Playing%20with%20Real-Time%20Shadows_0.pdf)
 * [LearnOpenGL - Cascade Shadow Mapping](https://learnopengl.com/Guest-Articles/2021/CSM)
 * [OGLDev - Cascade Shadow Mapping](https://ogldev.org/www/tutorial49/tutorial49.html)
+* [MJP - Shadows](https://github.com/TheRealMJP/Shadows)
 
 ### ReSTIR
 * [Benedikt Bitterli - SIGGRAPH 2020 Paper](https://benedikt-bitterli.me/restir/)
