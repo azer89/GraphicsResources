@@ -41,6 +41,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [LearnOpenGL - Cascade Shadow Mapping](https://learnopengl.com/Guest-Articles/2021/CSM)
 * [OGLDev - Cascade Shadow Mapping](https://ogldev.org/www/tutorial49/tutorial49.html)
 * [MJP - Shadows](https://github.com/TheRealMJP/Shadows)
+* [Microsoft - Common Techniques to Improve Shadow Depth Maps](https://learn.microsoft.com/en-us/windows/win32/dxtecharts/common-techniques-to-improve-shadow-depth-maps)
 
 ### ReSTIR
 * [Benedikt Bitterli - SIGGRAPH 2020 Paper](https://benedikt-bitterli.me/restir/)
