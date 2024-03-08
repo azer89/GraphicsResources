@@ -57,7 +57,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [VMA Usage Patterns](https://gpuopen-librariesandsdks.github.io/VulkanMemoryAllocator/html/usage_patterns.html)
 * VMA and Volk [Stackoverflow](https://stackoverflow.com/questions/73512602/using-vulkan-memory-allocator-with-volk) [Reddit](https://old.reddit.com/r/vulkan/comments/optef4/vulkan_memory_allocator_cant_load_some_vulkan/)
 
-### Bindless Rendering
+### Bindless Textures
 * [Charles Giessen - Exploration of Bindless Rendering](https://www.youtube.com/watch?v=SVm0HanVTRw)
 * [Reddit - How to use texture arrays using descriptor indexing](https://www.reddit.com/r/vulkan/comments/tq6c2v/vulkan_bindless_textures_how_to_deal_with/)
 * [Vulkan Guide - GPU Driven Rendering](https://vkguide.dev/docs/gpudriven/gpu_driven_engines/)
@@ -81,6 +81,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [Shader Occupancy](https://gpuopen.com/learn/occupancy-explained/)
 * [Early Depth Test](https://www.khronos.org/opengl/wiki/Early_Fragment_Test)
 * [MJP - Shader Permutations](https://therealmjp.github.io/posts/shader-permutations-part1/)
+* [David Lettier - 3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 
 ### C++
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-functions)
