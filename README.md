@@ -43,6 +43,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [MJP - Shadows](https://github.com/TheRealMJP/Shadows)
 * [Microsoft - Common Techniques to Improve Shadow Depth Maps](https://learn.microsoft.com/en-us/windows/win32/dxtecharts/common-techniques-to-improve-shadow-depth-maps)
 * [Digital Rune - Shadow Mapping](https://digitalrune.github.io/DigitalRune-Documentation/html/3f82c46b-efec-4416-807f-670ac1930117.htm)
+* [Louis Bavoil - Advanced Soft Shadow Mapping Techniques](https://developer.download.nvidia.com/presentations/2008/GDC/GDC08_SoftShadowMapping.pdf)
 
 ### ReSTIR
 * [Benedikt Bitterli - SIGGRAPH 2020 Paper](https://benedikt-bitterli.me/restir/)
