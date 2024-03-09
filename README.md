@@ -1,13 +1,14 @@
 A list of graphics/Vulkan/C++ resources that I find interesting.
 
 ### General
+* [Vulkan Guide](https://github.com/vblanco20-1/vulkan-guide)
+* [3D Graphics Rendering Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook)
 * [Vulkan Discord](https://discord.com/invite/vulkan) *Hightly recommended*
 * [AMD - Understanding Vulkan Objects](https://gpuopen.com/learn/understanding-vulkan-objects/)
 * [Zeux - Writing an efficient Vulkan renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
-* [Vulkan Guide](https://github.com/vblanco20-1/vulkan-guide)
-* [3D Graphics Rendering Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook)
 * [docs.vulkan.org](https://docs.vulkan.org/)
 * Charles G - Common Mistakes When Learning Vulkan [Presentation](https://vulkan.org/user/pages/09.events/vulkanised-2024/vulkanised-2024-charles-giessen-2-lunarg.pdf) [Video](https://www.youtube.com/watch?v=0OqJtPnkfC8)
+* [Khronos - Vulkan Samples](https://docs.vulkan.org/samples/latest/README.html)
 
 ### Compute Shaders
 * [Vulkan Guide - Compute Shaders](https://vkguide.dev/docs/gpudriven/compute_shaders/)
@@ -16,18 +17,11 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 ### Synchronization
 * [The Maister - Yet another blog explaining Vulkan synchronization](https://themaister.net/blog/2019/08/14/yet-another-blog-explaining-vulkan-synchronization/)
 * [AMD - Vulkan Barriers Explained](https://gpuopen.com/learn/vulkan-barriers-explained/)
-* [Sascha Willems - Using pipeline barriers efficiently](https://github.com/KhronosGroup/Vulkan-Samples/blob/main/samples/performance/pipeline_barriers/README.adoc)
+* [Khronos - Using pipeline barriers efficiently](https://github.com/KhronosGroup/Vulkan-Samples/blob/main/samples/performance/pipeline_barriers/README.adoc)
 * [Khronos - Synchronization Examples](https://github.com/KhronosGroup/Vulkan-Docs/wiki/Synchronization-Examples)
 * [Khronos - Synchronization Examples (Legacy)](https://github.com/KhronosGroup/Vulkan-Docs/wiki/Synchronization-Examples-(Legacy-synchronization-APIs))
 * [Stackoverflow - Why is a single depth buffer sufficient for this vulkan swapchain render loop?](https://stackoverflow.com/questions/62371266/why-is-a-single-depth-buffer-sufficient-for-this-vulkan-swapchain-render-loop)
 
-### Raytracing
-* [Khronos - Raytracing in Vulkan](https://www.khronos.org/blog/ray-tracing-in-vulkan)
-* [Khronos - Vulkan Raytracing Final Specification](https://www.khronos.org/blog/vulkan-ray-tracing-final-specification-release)
-* [NVPro](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/)
-* [NVPro - Samples](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
-* [SaschaWillems - VulkanPathTracer](https://github.com/SaschaWillems/VulkanPathTracer)
-  
 ### Clustered Forward Shading
 * [Olsson et al. -  Clustered Deferred and Forward Shading](https://www.cse.chalmers.se/~uffe/clustered_shading_preprint.pdf)
 * [Emil Persson - Practical Clustered Shading](https://www.humus.name/Articles/PracticalClusteredShading.pdf)
@@ -45,6 +39,13 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [Microsoft - Common Techniques to Improve Shadow Depth Maps](https://learn.microsoft.com/en-us/windows/win32/dxtecharts/common-techniques-to-improve-shadow-depth-maps)
 * [Digital Rune - Shadow Mapping](https://digitalrune.github.io/DigitalRune-Documentation/html/3f82c46b-efec-4416-807f-670ac1930117.htm)
 * [Louis Bavoil - Advanced Soft Shadow Mapping Techniques](https://developer.download.nvidia.com/presentations/2008/GDC/GDC08_SoftShadowMapping.pdf)
+
+### Raytracing
+* [Khronos - Raytracing in Vulkan](https://www.khronos.org/blog/ray-tracing-in-vulkan)
+* [Khronos - Vulkan Raytracing Final Specification](https://www.khronos.org/blog/vulkan-ray-tracing-final-specification-release)
+* [NVPro](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/)
+* [NVPro - Samples](https://github.com/nvpro-samples/vk_raytracing_tutorial_KHR)
+* [SaschaWillems - VulkanPathTracer](https://github.com/SaschaWillems/VulkanPathTracer)
 
 ### ReSTIR
 * [Benedikt Bitterli - SIGGRAPH 2020 Paper](https://benedikt-bitterli.me/restir/)
