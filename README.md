@@ -68,6 +68,11 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [GPU Rendering and Multi-Draw Indirect](https://docs.vulkan.org/samples/latest/samples/performance/multi_draw_indirect/README.html)
 * [Wicked Engine - Bindless Descriptors](https://wickedengine.net/2021/04/06/bindless-descriptors/)
 
+### Buffer Device Address *(sans Descriptors)*
+* [Khronos - Buffer Device Address](https://docs.vulkan.org/samples/latest/samples/extensions/buffer_device_address/README.html)
+* [Marco Castorina - Understanding Vulkan device buffer address alignment](https://marcocastorina.com/2023/02/23/vulkan-buffer-address.html)
+* [丛越 - 再论现代图形 API 的 Bindless](https://zhuanlan.zhihu.com/p/421175854)
+
 ### Dynamic Rendering *(sans VkRenderPass)*
 * [Lesley Lai - VK_KHR_dynamic_rendering tutorial](https://lesleylai.info/en/vk-khr-dynamic-rendering/)
 
