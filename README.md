@@ -71,6 +71,9 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 ### Dynamic Rendering *(sans VkRenderPass)*
 * [Lesley Lai - VK_KHR_dynamic_rendering tutorial](https://lesleylai.info/en/vk-khr-dynamic-rendering/)
 
+### Compute-based Culling
+* [Arseny Kapoulkine - niagara: GPU object culling](https://www.youtube.com/watch?v=NGGzk4Fi2iU&t=6962s)
+
 ### Render Graph
 * [FrameGraph: Extensible Rendering Architecture in Frostbite](https://www.gdcvault.com/play/1024045/FrameGraph-Extensible-Rendering-Architecture-in)
 * [The Maister - Render Graphs and Vulkan](https://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
