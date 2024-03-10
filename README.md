@@ -3,7 +3,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 ### General
 * [Vulkan Guide](https://github.com/vblanco20-1/vulkan-guide)
 * [3D Graphics Rendering Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook)
-* [Vulkan Discord](https://discord.com/invite/vulkan) *Hightly recommended*
+* [Vulkan Discord](https://discord.com/invite/vulkan) *Highly recommended*
 * [AMD - Understanding Vulkan Objects](https://gpuopen.com/learn/understanding-vulkan-objects/)
 * [Zeux - Writing an efficient Vulkan renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [docs.vulkan.org](https://docs.vulkan.org/)
