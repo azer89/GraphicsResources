@@ -78,6 +78,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 
 ### Compute-based Culling
 * [Arseny Kapoulkine - niagara: GPU object culling](https://www.youtube.com/watch?v=NGGzk4Fi2iU&t=6962s)
+* [Inigo Quilez - Frustum Correct](https://iquilezles.org/articles/frustumcorrect/)
 
 ### Render Graph
 * [FrameGraph: Extensible Rendering Architecture in Frostbite](https://www.gdcvault.com/play/1024045/FrameGraph-Extensible-Rendering-Architecture-in)
