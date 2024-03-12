@@ -23,20 +23,20 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [Stackoverflow - Why is a single depth buffer sufficient for this vulkan swapchain render loop?](https://stackoverflow.com/questions/62371266/why-is-a-single-depth-buffer-sufficient-for-this-vulkan-swapchain-render-loop)
 
 ### Clustered Forward Shading
+* [Aortiz - A Primer On Efficient Rendering Algorithms & Clustered Shading](https://www.aortiz.me/2018/12/21/CG.html)
 * [Olsson et al. -  Clustered Deferred and Forward Shading](https://www.cse.chalmers.se/~uffe/clustered_shading_preprint.pdf)
 * [Emil Persson - Practical Clustered Shading](https://www.humus.name/Articles/PracticalClusteredShading.pdf)
 * [Van Oosten Thesis](https://www.3dgep.com/wp-content/uploads/2017/07/3910539_Jeremiah_van_Oosten_Volume_Tiled_Forward_Shading.pdf)
 * [Id - The Devil is in Details](https://advances.realtimerendering.com/s2016/Siggraph2016_idTech6.pdf)
 * [Id - Rendering Doom Eternal](https://advances.realtimerendering.com/s2020/RenderingDoomEternal.pdf)
 * [Michal Drobot - Improved Culling for Tiled and Clustered Rendering](https://advances.realtimerendering.com/s2017/2017_Sig_Improved_Culling_final.pdf)
-* [Aortiz - A Primer On Efficient Rendering Algorithms & Clustered Shading](https://www.aortiz.me/2018/12/21/CG.html)
 
 ### Shadow Mapping
+* [MJP - Shadows](https://github.com/TheRealMJP/Shadows)
+* [Microsoft - Common Techniques to Improve Shadow Depth Maps](https://learn.microsoft.com/en-us/windows/win32/dxtecharts/common-techniques-to-improve-shadow-depth-maps)
 * [Nikolas Kasyan - Playing with Real-Time Shadows](https://www.realtimeshadows.com/sites/default/files/Playing%20with%20Real-Time%20Shadows_0.pdf)
 * [LearnOpenGL - Cascade Shadow Mapping](https://learnopengl.com/Guest-Articles/2021/CSM)
 * [OGLDev - Cascade Shadow Mapping](https://ogldev.org/www/tutorial49/tutorial49.html)
-* [MJP - Shadows](https://github.com/TheRealMJP/Shadows)
-* [Microsoft - Common Techniques to Improve Shadow Depth Maps](https://learn.microsoft.com/en-us/windows/win32/dxtecharts/common-techniques-to-improve-shadow-depth-maps)
 * [Digital Rune - Shadow Mapping](https://digitalrune.github.io/DigitalRune-Documentation/html/3f82c46b-efec-4416-807f-670ac1930117.htm)
 * [Louis Bavoil - Advanced Soft Shadow Mapping Techniques](https://developer.download.nvidia.com/presentations/2008/GDC/GDC08_SoftShadowMapping.pdf)
 
@@ -64,8 +64,6 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 ### Bindless Textures
 * [Charles Giessen - Exploration of Bindless Rendering](https://www.youtube.com/watch?v=SVm0HanVTRw)
 * [Reddit - How to use texture arrays using descriptor indexing](https://www.reddit.com/r/vulkan/comments/tq6c2v/vulkan_bindless_textures_how_to_deal_with/)
-* [Vulkan Guide - GPU Driven Rendering](https://vkguide.dev/docs/gpudriven/gpu_driven_engines/)
-* [GPU Rendering and Multi-Draw Indirect](https://docs.vulkan.org/samples/latest/samples/performance/multi_draw_indirect/README.html)
 * [Wicked Engine - Bindless Descriptors](https://wickedengine.net/2021/04/06/bindless-descriptors/)
 
 ### Buffer Device Address *(sans Descriptors)*
@@ -79,13 +77,13 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 ### Compute-based Culling
 * [Arseny Kapoulkine - niagara: GPU object culling](https://www.youtube.com/watch?v=NGGzk4Fi2iU&t=6962s)
 * [Inigo Quilez - Frustum Correct](https://iquilezles.org/articles/frustumcorrect/)
+* [Vulkan Guide - Cull Compute Core](https://vkguide.dev/docs/gpudriven/compute_culling/)
+* [Sascha Willems - Compute Cull and LOD](https://github.com/SaschaWillems/Vulkan/blob/master/examples/computecullandlod/computecullandlod.cpp)
+* [GPU Rendering and Multi-Draw Indirect](https://docs.vulkan.org/samples/latest/samples/performance/multi_draw_indirect/README.html)
 
 ### Render Graph
 * [FrameGraph: Extensible Rendering Architecture in Frostbite](https://www.gdcvault.com/play/1024045/FrameGraph-Extensible-Rendering-Architecture-in)
 * [The Maister - Render Graphs and Vulkan](https://themaister.net/blog/2017/08/15/render-graphs-and-vulkan-a-deep-dive/)
-
-### DirectX
-* [DirectX Specification](https://microsoft.github.io/DirectX-Specs/)
 
 ### Miscellaneous
 * [glslang API](https://chromium.googlesource.com/external/github.com/KhronosGroup/glslang/)
@@ -100,6 +98,9 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [David Lettier - 3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
 * [Khronos - Mobile NeRF](https://github.com/KhronosGroup/Vulkan-Samples/blob/8ba37b44a693d165c2ab8b9cfdcf1c8774efd407/samples/general/mobile_nerf/README.adoc)
 * [Khronos - Buffer Device Address](https://docs.vulkan.org/samples/latest/samples/extensions/buffer_device_address/README.html)
+
+### DirectX
+* [DirectX Specification](https://microsoft.github.io/DirectX-Specs/)
 
 ### C++
 * [C++ Core Guidelines](https://isocpp.github.io/CppCoreGuidelines/CppCoreGuidelines#S-functions)
