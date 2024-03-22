@@ -101,6 +101,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [Khronos - Buffer Device Address](https://docs.vulkan.org/samples/latest/samples/extensions/buffer_device_address/README.html)
 * [Andrew Pham - Spherical Harmonics](https://andrew-pham.blog/2019/08/26/spherical-harmonics/)
 * [Wicked Engine - Voxel-based GI](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
+* [Khronos - Offset and Stride Assignment](https://docs.vulkan.org/spec/latest/chapters/interfaces.html#interfaces-resources-layout)
 
 ### DirectX
 * [DirectX Specification](https://microsoft.github.io/DirectX-Specs/)
