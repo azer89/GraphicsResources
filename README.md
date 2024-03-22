@@ -102,6 +102,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [Andrew Pham - Spherical Harmonics](https://andrew-pham.blog/2019/08/26/spherical-harmonics/)
 * [Wicked Engine - Voxel-based GI](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
 * [Khronos - Offset and Stride Assignment](https://docs.vulkan.org/spec/latest/chapters/interfaces.html#interfaces-resources-layout)
+* [Iago Toral - Frame analysis of a rendering of the Sponza model](https://blogs.igalia.com/itoral/2018/04/17/frame-analysis-of-a-rendering-of-the-sponza-model/)
 
 ### DirectX
 * [DirectX Specification](https://microsoft.github.io/DirectX-Specs/)
