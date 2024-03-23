@@ -39,8 +39,10 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [OGLDev - Cascade Shadow Mapping](https://ogldev.org/www/tutorial49/tutorial49.html)
 * [Digital Rune - Shadow Mapping](https://digitalrune.github.io/DigitalRune-Documentation/html/3f82c46b-efec-4416-807f-670ac1930117.htm)
 * [Louis Bavoil - Advanced Soft Shadow Mapping Techniques](https://developer.download.nvidia.com/presentations/2008/GDC/GDC08_SoftShadowMapping.pdf)
+* [Andrew Pham - PCSS](https://andrew-pham.blog/2019/08/03/percentage-closer-soft-shadows/)
 
 ### Raytracing
+* [Khronos - Acceleration Structures](https://registry.khronos.org/vulkan/specs/1.3-extensions/html/vkspec.html#acceleration-structure)
 * [Khronos - Raytracing in Vulkan](https://www.khronos.org/blog/ray-tracing-in-vulkan)
 * [Khronos - Vulkan Raytracing Final Specification](https://www.khronos.org/blog/vulkan-ray-tracing-final-specification-release)
 * [NVPro](https://nvpro-samples.github.io/vk_raytracing_tutorial_KHR/)
