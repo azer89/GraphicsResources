@@ -3,7 +3,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 ### General
 * [Vulkan Guide](https://github.com/vblanco20-1/vulkan-guide)
 * [3D Graphics Rendering Cookbook](https://github.com/PacktPublishing/3D-Graphics-Rendering-Cookbook)
-* [Vulkan Discord](https://discord.com/invite/vulkan) *Highly recommended*
+* [Vulkan Discord](https://discord.com/invite/vulkan)
 * [AMD - Understanding Vulkan Objects](https://gpuopen.com/learn/understanding-vulkan-objects/)
 * [Zeux - Writing an efficient Vulkan renderer](https://zeux.io/2020/02/27/writing-an-efficient-vulkan-renderer/)
 * [docs.vulkan.org](https://docs.vulkan.org/)
@@ -99,12 +99,14 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [Early Depth Test](https://www.khronos.org/opengl/wiki/Early_Fragment_Test)
 * [MJP - Shader Permutations](https://therealmjp.github.io/posts/shader-permutations-part1/)
 * [David Lettier - 3D Game Shaders For Beginners](https://github.com/lettier/3d-game-shaders-for-beginners)
-* [Khronos - Mobile NeRF](https://github.com/KhronosGroup/Vulkan-Samples/blob/8ba37b44a693d165c2ab8b9cfdcf1c8774efd407/samples/general/mobile_nerf/README.adoc)
 * [Khronos - Buffer Device Address](https://docs.vulkan.org/samples/latest/samples/extensions/buffer_device_address/README.html)
 * [Andrew Pham - Spherical Harmonics](https://andrew-pham.blog/2019/08/26/spherical-harmonics/)
 * [Wicked Engine - Voxel-based GI](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
 * [Khronos - Offset and Stride Assignment](https://docs.vulkan.org/spec/latest/chapters/interfaces.html#interfaces-resources-layout)
 * [Iago Toral - Frame analysis of a rendering of the Sponza model](https://blogs.igalia.com/itoral/2018/04/17/frame-analysis-of-a-rendering-of-the-sponza-model/)
+
+### Radiance Fields
+* [Khronos - Mobile NeRF](https://github.com/KhronosGroup/Vulkan-Samples/blob/8ba37b44a693d165c2ab8b9cfdcf1c8774efd407/samples/general/mobile_nerf/README.adoc)
 
 ### DirectX
 * [DirectX Specification](https://microsoft.github.io/DirectX-Specs/)
