@@ -104,6 +104,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [Wicked Engine - Voxel-based GI](https://wickedengine.net/2017/08/30/voxel-based-global-illumination/)
 * [Khronos - Offset and Stride Assignment](https://docs.vulkan.org/spec/latest/chapters/interfaces.html#interfaces-resources-layout)
 * [Iago Toral - Frame analysis of a rendering of the Sponza model](https://blogs.igalia.com/itoral/2018/04/17/frame-analysis-of-a-rendering-of-the-sponza-model/)
+* [Simon Coenen - DOOM Eternal - Graphics Study](https://simoncoenen.com/blog/programming/graphics/DoomEternalStudy)
 
 ### Radiance Fields
 * [Khronos - Mobile NeRF](https://github.com/KhronosGroup/Vulkan-Samples/blob/8ba37b44a693d165c2ab8b9cfdcf1c8774efd407/samples/general/mobile_nerf/README.adoc)
