@@ -9,6 +9,7 @@ A list of graphics/Vulkan/C++ resources that I find interesting.
 * [docs.vulkan.org](https://docs.vulkan.org/)
 * Charles G - Common Mistakes When Learning Vulkan [Presentation](https://vulkan.org/user/pages/09.events/vulkanised-2024/vulkanised-2024-charles-giessen-2-lunarg.pdf) [Video](https://www.youtube.com/watch?v=0OqJtPnkfC8)
 * [Khronos - Vulkan Samples](https://docs.vulkan.org/samples/latest/README.html)
+* [SaschaWillems - Vulkan Samples](https://github.com/SaschaWillems/Vulkan)
 
 ### Compute Shaders
 * [Vulkan Guide - Compute Shaders](https://vkguide.dev/docs/gpudriven/compute_shaders/)
